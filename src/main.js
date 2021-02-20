@@ -13,7 +13,7 @@ axios.defaults.baseURL = 'http://127.0.0.1:8888/api/private/v1/'
 // axios.defaults.baseURL = 'http://192.168.42.155:8888/api/private/v1/'
 Vue.prototype.$http = axios
 Vue.config.productionTip = false
-
+51353
 new Vue({
   router,
   render: h => h(App)
